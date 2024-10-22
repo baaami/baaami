@@ -1,6 +1,6 @@
 Welcome to me😎
 
-I'm baami, Linux/Web Application developer from 🇰🇷Korea
+I'm baami, Software Engineer (Backend, Linux Application) from 🇰🇷Korea
 
 <h2>Tech Stack</h2>
 <h3>Language</h3>
